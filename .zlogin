@@ -1,1 +1,1 @@
-/home/ec2-user/.zprezto/runcoms/zlogin
+.zprezto/runcoms/zlogin

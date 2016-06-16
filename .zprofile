@@ -1,1 +1,1 @@
-/home/ec2-user/.zprezto/runcoms/zprofile
+.zprezto/runcoms/zprofile
